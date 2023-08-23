@@ -46,4 +46,15 @@ const fnTextPopup = function (arr, options) {
 }
 
 // 执行，传入文字内容
-fnTextPopup(['💙', '💎', '💵', 'Yeah'])
+fnTextPopup([
+  '💙',
+  '💎',
+  '💵',
+  'Yeah',
+  'KryptoGO',
+  '✨',
+  '🎉',
+  '☠️',
+  '⚡',
+  '🐯'
+])
